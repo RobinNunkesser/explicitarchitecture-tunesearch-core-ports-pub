@@ -2,3 +2,6 @@
 
 * Initial version
 
+## [0.0.2] - December 17, 2020
+
+* Classes are now abstract

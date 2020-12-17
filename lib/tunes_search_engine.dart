@@ -1,5 +1,5 @@
 import 'tunesearchexample_core_ports.dart';
 
 abstract class TunesSearchEngine {
-  Future<List<TrackEntity>> getSongs(String term);
+  Future<List<Track>> getSongs(String term);
 }
